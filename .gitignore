@@ -1,0 +1,9 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Lineas base (contienen rutas de tu sistema, no subir)
+integridad_base.json
+*.json
